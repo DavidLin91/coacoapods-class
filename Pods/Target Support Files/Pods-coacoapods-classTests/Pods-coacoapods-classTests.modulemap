@@ -1,0 +1,6 @@
+framework module Pods_coacoapods_classTests {
+  umbrella header "Pods-coacoapods-classTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
